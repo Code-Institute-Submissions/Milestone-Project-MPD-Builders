@@ -1,8 +1,12 @@
 /*-----------Special margins/Paddings-----------*/
 
+.pad-left-nav-item {
+    padding-left: 50px;
+}
 
-
-
+.pad-right-nav-item {
+    padding-right: 50px;
+}
 
 
 
