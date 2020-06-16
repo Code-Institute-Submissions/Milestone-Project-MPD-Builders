@@ -3,14 +3,16 @@
 /*-----------Special margins/Paddings-----------*/
 
 .navbar {
-    padding-top: 50px;
+  padding-top: 50px;
 }
 
 .about-us-padding {
-    padding-top: 130px;
+  padding-top: 130px;
 }
 
-
+.footer-size {
+  line-height: 30px;
+}
 
 /*-----------------Header----------------*/
 
@@ -22,26 +24,37 @@
   min-height: 100px;
 }
 
+.spacing-nav-items {
+  letter-spacing: 2px;
+}
+
 /*-----------------Section----------------*/
 
 .bg-slate-dark {
-    background: url("../images/darkslatebg2.jpg");
+  background: url("../images/darkslatebg2.jpg");
 }
 
 .bg-slate-white {
-    background: url("../images/whiteslatebg.jpg");
+  background: url("../images/whiteslatebg.jpg");
 }
 
 .slate-properties {
-    background-repeat: no-repeat;
-    background-size: cover;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 .about-text {
-    font-size: 20px;
-    font-weight: 400;
+  font-size: 20px;
+  font-weight: 400;
 }
 
-.spacing-text {
-    letter-spacing: 2px;
+.spacing-about-text {
+  letter-spacing: 2px;
+}
+
+/*-----------------Footer----------------*/
+
+footer ul li a i {
+  text-decoration: none;
+  color: slategray;
 }
