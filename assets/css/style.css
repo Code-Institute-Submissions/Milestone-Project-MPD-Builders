@@ -1,11 +1,9 @@
+@import url("https://fonts.googleapis.com/css?family=Roboto&display=swap:100,200,300,400,500,600,700|Exo:100,200,300,400,500,600,700");
+
 /*-----------Special margins/Paddings-----------*/
 
-.pad-left-nav-item {
-    padding-left: 50px;
-}
-
-.pad-right-nav-item {
-    padding-right: 50px;
+.about-us-padding {
+    padding-top: 180px;
 }
 
 
