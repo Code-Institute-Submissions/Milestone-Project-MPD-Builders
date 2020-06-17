@@ -11,7 +11,7 @@
 }
 
 .form-padding {
-    padding-top: 100px;
+  padding-top: 50px;
 }
 
 .footer-size {
@@ -62,9 +62,9 @@
 
 /*-----------------Home----------------*/
 
-.bg-opac-home {
-    background: url("../images/39christmaspieave.jpg") no-repeat;
-    background-size: cover;
+.bg-home {
+  background: url("../images/39christmaspieave.jpg") no-repeat;
+  background-size: cover;
 }
 
 .bg-slate-dark {
@@ -128,7 +128,10 @@
 
 /*-----------------Contact----------------*/
 
-
+.contact-font {
+  font-size: 18px;
+  font-weight: 350;
+}
 
 /*-----------------Footer----------------*/
 
