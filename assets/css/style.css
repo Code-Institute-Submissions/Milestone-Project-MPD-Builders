@@ -2,9 +2,6 @@
 
 /*-----------Special margins/Paddings-----------*/
 
-.navbar {
-  padding-top: 50px;
-}
 
 .section-padding {
   padding-top: 100px;
@@ -49,11 +46,9 @@
 /*-----------------Header----------------*/
 
 .logo {
-  background: url("../images/mpdbuilderslogo.jpg");
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: 120px 100px;
-  min-height: 100px;
+    height: 50px;
+    width: 100px;
+    object-fit: contain;
 }
 
 .spacing-nav-items {
@@ -128,9 +123,11 @@
 
 /*-----------------Contact----------------*/
 
-.contact-font {
+.contact-wrapper {
   font-size: 18px;
   font-weight: 350;
+  background: #00000026;
+  border-radius: 5px;
 }
 
 /*-----------------Footer----------------*/
