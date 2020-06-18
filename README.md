@@ -1,3 +1,9 @@
+<h1 align="center">MPD Builders Website</h1>
+
+[View the live project here.](https://joelouisdsantos.github.io/Milestone-Project-MPD-Builders/)
+
+This is the only showcase website for a local building firm called MPD Builders. It's designed to be easily accessible and responsive on all devices.
+
 ## User Experience (UX)
 
 -   ### User stories
@@ -118,13 +124,13 @@ By forking the GitHub Repository we make a copy of the original repository on ou
 6. Type `git clone`, and then paste the URL you copied in Step 3.
 
 ```
-$ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
+$ git clone https://github.com/JoeLouisDsantos/Milestone-Project-MPD-Builders
 ```
 
 7. Press Enter. Your local clone will be created.
 
 ```
-$ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
+$ git clone https://github.com/JoeLouisDsantos/Milestone-Project-MPD-Builders
 > Cloning into `CI-Clone`...
 > remote: Counting objects: 10, done.
 > remote: Compressing objects: 100% (8/8), done.
